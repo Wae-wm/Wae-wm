@@ -20,7 +20,6 @@ I am Waeasmah Waemudo, a software development enthusiast who loves programming a
 
 **Backend**<br>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="48" /></a>
-<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="48" /></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="48" /></a>
 <a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="48" /></a>
 <a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" height="48" /></a>
@@ -28,13 +27,6 @@ I am Waeasmah Waemudo, a software development enthusiast who loves programming a
 **Databases**<br>
 <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="48" /></a>
 <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /></a>
-
-**IoT**<br>
-<a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" height="48" /></a>
-
-**Android**<br>
-<a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="48" /></a>
-<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="48" /></a>
 
 **Dev Tools**<br>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="48" /></a>
