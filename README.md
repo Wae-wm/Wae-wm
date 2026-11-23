@@ -11,4 +11,32 @@
 I am Waeasmah Waemudo, a software development enthusiast who loves programming and reading self-development books.
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,git,docker" />
+
+**Frontend**<br>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="48" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="48" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="48" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="48" /></a>
+
+**Backend**<br>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="48" /></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" height="48" /></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="48" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" height="48" /></a>
+<a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" height="48" /></a>
+
+**Databases**<br>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" height="48" /></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /></a>
+
+**IoT**<br>
+<a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" height="48" /></a>
+
+**Android**<br>
+<a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="48" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="48" /></a>
+
+**Dev Tools**<br>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="48" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" height="48" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="48" /></a>
